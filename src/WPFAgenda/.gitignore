@@ -1,0 +1,6 @@
+_ReSharper*/
+packages/
+Test*/
+*.user
+*.testsettings
+*.vsmdi

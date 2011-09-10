@@ -1,0 +1,1 @@
+Aplicação bem simples de exemplo que demonstra o uso do WPF com MVVM persistindo dados no MongoDB

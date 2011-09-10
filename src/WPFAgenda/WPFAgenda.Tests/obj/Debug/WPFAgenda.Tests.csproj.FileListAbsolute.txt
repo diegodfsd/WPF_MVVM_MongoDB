@@ -1,0 +1,8 @@
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\bin\Debug\WPFAgenda.Tests.dll
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\bin\Debug\WPFAgenda.Tests.pdb
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\bin\Debug\MvvmFoundation.Wpf.dll
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\bin\Debug\WPFAgenda.exe
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\bin\Debug\WPFAgenda.pdb
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\obj\Debug\WPFAgenda.Tests.dll
+c:\users\diego\documents\visual studio 2010\Projects\WPFAgenda\src\WPFAgenda\WPFAgenda.Tests\obj\Debug\WPFAgenda.Tests.pdb
